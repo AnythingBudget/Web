@@ -8,7 +8,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Integration
 
-This project is integrated to several other tools.
+This project is integrated to these tools:
 
 - Linear:
   - Project Name: AnythingBudget
@@ -23,11 +23,11 @@ This app is a full-stack app using React-Router v7.
 #### Tech-Stacks
 
 - Framework: React-Router v7
-- Authentication: Better-Auth
-- API Layer: tRPC v 0.13
+- Authentication: Better-Auth v1.1.19
+- API Layer: tRPC v11.3.1
 - Database: Postgresql
-- Database Adapter: Prisma v6.9.0
-- Styling Library: TailwindCSS
+- Database ORM: Prisma v6.9.0
+- Styling Library: TailwindCSS v4
 - UI Components Library: ShadCN/UI
 - Type Safety: Typescript
 
