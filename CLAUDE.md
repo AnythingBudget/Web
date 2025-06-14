@@ -16,6 +16,10 @@ This project is integrated to these tools:
 
 ## Software Development
 
+### Development Context
+
+I am a solo developer working with this. The goal is to do fast development iteration. No need to create enterprise documentation overhead, or something similar.
+
 ### Architecture Overview
 
 This app is a full-stack app using React-Router v7.
